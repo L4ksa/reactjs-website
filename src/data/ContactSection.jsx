@@ -9,8 +9,8 @@ export const contactSection = [
     },
     {
         content: `<h3>Contact</h3>
-                    <p>Jl. Laksda Adisucipto Sleman Yogyakarta</p>
-                    <p>Kode Pos: 57365</p>`
+                    <p>Lot 8992, Jalan Mendu, Kampung Simpang Tiga, 93200 Kuching, Sarawak</p>
+                    <p>Kode Postcode: 93200</p>`
     },
     {
         content: `<h3>Social</h3>
